@@ -16,12 +16,17 @@ limitations under the License.
 
 package main
 
-import (
-	"fmt"
+import "fmt"
+// import (
+// 	"fmt"
 
-	"github.com/golang/example/stringutil"
-)
+// 	// "github.com/golang/example/stringutil"
+// )
 
-func main() {
-	fmt.Println(stringutil.Reverse("!selpmaxe oG ,olleH"))
-}
+// func main() {
+// 	// fmt.Println(stringutil.Reverse("Hello, KidusMT\n"))
+
+// 	fmt.Println("Hello, KidusMT")
+// }
+
+func main() {fmt.Println("Hello, KidusMT")}
